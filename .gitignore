@@ -1,0 +1,4 @@
+mypackage.egg-info
+.history
+.vscode
+mypackage/__pycache__s
